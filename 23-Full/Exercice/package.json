@@ -1,0 +1,11 @@
+{
+    "name": "SocketLED",
+    "version": "0.1.0",
+    "dependencies": {
+        "http": "latest",
+        "fs": "latest",
+        "socket.io": "latest",
+        "wiringpi-node": "latest",
+	"mongodb": "2"
+    }
+}
